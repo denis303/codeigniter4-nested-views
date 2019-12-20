@@ -1,0 +1,9 @@
+{
+    "name": "denis303/codeigniter4-nested-views",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Denis303\\NestedViews\\" : ""
+        }
+    }
+}
